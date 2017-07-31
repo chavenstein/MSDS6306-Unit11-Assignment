@@ -20,7 +20,7 @@ Before pointing you to the analysis, I will provide the structure of this github
 
 *ROOT/Analysis*
 
-* Analysis.Rmd, the actual analysis, is in the Analysis folder. Please navigate to it to view the analysis.
+* Analysis.md, the actual analysis, is in the Analysis folder. [Please navigate to it here to view the analysis.](https://github.com/chavenstein/MSDS6306-Unit11-Assignment/blob/master/Analysis/Analysis.md)
 
 *ROOT/Analysis/Data*
 
